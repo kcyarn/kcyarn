@@ -6,6 +6,7 @@ categories: citations
 ---
 
 Article Name: [Forty Thousand Bikers, Half a Million Fairgoers, and Overflowing ICUs](https://kchester.medium.com/forty-thousand-bikers-half-a-million-fairgoers-and-overflowing-icus-c88f0e6cb469)
+
 Publication Date: August 18, 2021
 
 ## Citations
