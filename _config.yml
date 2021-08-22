@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site provides citations for my Medium articles. Link rot remains a persistent problem. While I cannot guarantee that my links will work beyond the day I accessed the information, I can and am providing the necessary information for others to identify my sources even if the link no longer resolves. While I believe this information belongs in the Medium article, clickable internal links do not presently work on Medium's app. External ones do.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @kristlechester
+twitter_username: kristlechester
 
 # Build settings
 theme: minima
