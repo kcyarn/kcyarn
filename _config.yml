@@ -18,16 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Citations and Other Supplementary Materials
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This site provides citations for my Medium articles. Link rot remains a persistent problem. While I cannot guarantee that my links will work beyond the day I accessed the information, I can and am providing the necessary information for others to identify my sources even if the link no longer resolves. While I believe this information belongs in the Medium article, clickable internal links do not presently work on Medium's app. External ones do.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: @kristlechester
 
 # Build settings
 theme: minima
